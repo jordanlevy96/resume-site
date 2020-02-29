@@ -19,6 +19,6 @@ If you are possessed with the desire to contribute to a deeply personal site lik
 ## Further Reading
 
 ### Non-technical stuff that I recommend here arbitrarily
-- [Cookies, a brilliant short story by Douglas Adams, hosted on a silly website](http://www.math.toronto.edu/beni/bERNARDO_nOT_fOUND/fUNNY_sTUFF/Entries/2007/11/27_cookies.html)
+- [Cookies, a brilliant short story by Douglas Adams and hosted on a silly website](http://www.math.toronto.edu/beni/bERNARDO_nOT_fOUND/fUNNY_sTUFF/Entries/2007/11/27_cookies.html)
 - [The Powder Game, a free webgame that I played in middle school](https://dan-ball.jp/en/javagame/dust/)
 - [An archive of old school arcade games that you can play in your browser](https://archive.org/details/internetarcade)
