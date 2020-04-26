@@ -16,6 +16,13 @@ To use this project, follow these steps:
 
 If you are possessed with the desire to contribute to a deeply personal site like this, you are free to fork this repository and make a pull request. I'm not sure why you would, though.
 
+### Deployment Notes
+
+Notes for myself about how to deploy; a cheat-sheet so I don't have to look up the docs every time.
+
+- Run locally: `firebase serve`
+- Deploy: `firebase deploy`
+
 ## Further Reading
 
 ### Non-technical stuff that I recommend here arbitrarily
